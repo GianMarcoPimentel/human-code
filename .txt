@@ -1,0 +1,9 @@
+- Apro il pacchetto
+- Controllo le figurine fino all'esarimento 0 <=5   
+    ? SE c'è controllo la figura 
+        ? SE è nuova la appiccio nell'album
+        : ALTRIMENTI lo aggiungo nel mazzo del doppione 
+        - aspetto sabato per scambiare i doppioni
+            ? SE le figurine mi mancano cedo una mia figurina e fine
+                   ? SE la figurina ce l'ho continuo a cercare
+                   : ALTRIMENTI cedo una mia figurina e la appiccico all'album e continuo il ciclo
